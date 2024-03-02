@@ -1,0 +1,336 @@
+
+.header {
+  
+
+    height: 150px;
+    background-color:#A332FD;
+    
+   
+}
+
+.left {
+    position: relative;
+    top: 20px;
+    left: 150px;
+    display: inline-block;
+    justify-self: center;
+}
+
+
+.mid ul li {
+
+    display: inline;
+    justify-content:center;
+    align-items:center;
+    padding-left: 20px;
+    margin-left: 20px;
+  
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 20px;
+    width: 100%;
+  }
+
+
+
+  .grid-item {
+    background-color: #A332FD;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+  
+  }
+
+
+
+  .form-group input {
+
+
+    width: 100%;
+    height: 30px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+  }
+
+
+  .form-group .Message {
+
+    height: 80%;
+    width: 80%;
+  }
+
+
+
+  
+
+
+  .button {
+
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid white;
+  
+  }
+
+
+
+  .grid-item h1 {
+
+    color: white;
+  }
+
+
+
+
+
+  .second h1,h3,p,li {
+
+    color: white;
+
+  }
+
+
+  .second p {
+
+    background-color: blue;
+    border: 2px solid white;
+    margin: 30px;
+    width: 50%;
+    padding: 20px;
+  }
+
+
+  .second ul li {
+
+    list-style: none;
+  }
+
+
+  .para1 {
+
+       line-height: 20px;
+    
+  }
+
+  .list1 {
+
+     line-height: 40px;
+  
+  }
+
+
+  .table1 {
+
+    color: white;
+  }
+
+
+
+
+
+.container2 {
+
+    display: flex;
+}
+
+
+
+.card {
+    margin: 23px 12px;
+    padding:23px 12px;
+    border:2px solid blue;
+}
+
+
+
+
+.text {
+
+    color: white;
+    background-color:blueviolet;
+    border-radius: 10px;
+    height: 20px;
+    width: 30%;
+    padding:10px ;
+    text-align: left;
+    
+    
+}
+
+
+
+
+.social
+
+{
+
+    color: white;
+    height: 100px;
+    position: relative;
+    top: 4px;
+    background-color:blue;
+
+}
+
+
+ 
+
+
+
+
+
+.foot-pannel1 {
+
+    color: white;
+    background-color:green;
+    font-size: 20px;
+
+}
+
+
+
+.foot-pannel2 {
+
+    color: white;
+    background-color: green;
+    
+    
+}
+
+
+
+ .social .mid .images-items li {
+
+    background-color: green;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+
+
+
+
+.right  {
+
+
+   
+
+  
+}
+
+
+
+.mid {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+
+
+
+
+.foot-pannel2 {
+
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    background-image:url("footer\ image.png");
+    background-size: cover;
+    background-position: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.foot-pannel2 p {
+
+    height: 200px;
+    width: 200px;
+}
+
+
+.foot-pannel2 ul {
+
+    margin-top: 10px;
+    
+}
+
+
+.foot-pannel2 ul a {
+
+    text-decoration: none;
+}
+
+
+ .foot-pannel2 a {
+
+    display: block;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+
+.aside {
+
+    position: relative;
+    top: 30px;
+    width: 60%;
+    background-color: white;
+    color: black;
+    padding-right: 10px;
+    margin-right: 10px;
+    font-size: 32px;
+    float: left;
+
+}
+
+.social {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.media ul li {
+
+
+}
+
+
+.heading1 h1 {
+
+   
+}
+
+.foot-pannel3 {
+
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right input {
+
+    height: 50px;
+}
+
+.right button {
+
+    height: 50px;
+}
+
+
+
+
